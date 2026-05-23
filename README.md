@@ -1,4 +1,4 @@
-# Enterprise AI Assistant
+# ENTERPRISE AI ASSISTANT USING LLM AND RAG #
 
 ## Overview
 Enterprise AI Assistant is an AI-powered document question-answering system developed using Retrieval-Augmented Generation (RAG). The application allows users to upload documents, process their content, store embeddings in a vector database, and ask questions in natural language.
